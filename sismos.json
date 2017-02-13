@@ -1,0 +1,67 @@
+<script src="/sismos/angular.min.js"></script>
+<script src="/sismos/app.js"></script>
+
+<div ng-app="sismosApp">
+<div ng-controller="jsonMapaCtrl" class="info-sismos col-xs-12 col-ms-12 col-md-12 col-lg-12">
+	<div ng-repeat="item in dataJson | filter:searchOptions">
+		<div class="sismos-img col-xs-12 col-ms-12 col-md-6 col-lg-6">
+			<img ng-src="{{item.shakemapURL}}" />
+		</div>
+		<div class="sismos-tabla col-xs-12 col-ms-12 col-md-6 col-lg-6">
+			<div class="sismos-titulo fgreen font-xl">
+				<div>{{item.description}}</div>
+			</div>
+			<table class="table table-striped fgrey1">
+				<tbody>
+					<tr>
+						<td class="titulo-td">Tiempo de origen:</td>
+						<td>{{item.time}}</td>
+					</tr>
+					<tr>
+						<td class="titulo-td">Ubicación:</td>
+						<td>{{item.latitude}}°N  {{item.longitude}}°W</td>
+					</tr>
+					<tr>
+						<td class="titulo-td">Profundidad:</td>
+						<td>{{item.depth}} Km</td>
+					</tr>
+					<tr>
+						<td class="titulo-td">Magnitud:</td>
+						<td>{{item.mag}}</td>
+					</tr>
+					<tr>
+						<td class="titulo-td">Fases:</td>
+						<td>FALTA</td>
+					</tr>
+					<tr>
+						<td class="titulo-td">Estatus:</td>
+						<td>{{item.status}}</td>
+					</tr>
+					<tr>
+						<td class="titulo-td">RMS:</td>
+						<td>{{item.rms}}</td>
+					</tr>
+					<tr>
+						<td class="titulo-td">Gap:</td>
+						<td>{{item.gap}}°</td>
+					</tr>
+					<tr>
+						<td class="titulo-td">Agency ID:</td>
+						<td>FALTA</td>
+					</tr>
+				</tbody>
+			</table>
+			<div class="botones-tabla">
+				<div class="boton-sismos"><button type="submit" class="btn btn-primary">Descargar QuakeML</button></div>
+				<div class="boton-sismos"><button type="submit" class="btn btn-primary">Descargar KML</button></div>
+				<div class="boton-sismos"><button type="submit" class="btn btn-primary">Descargar XML</button></div>
+				<div class="btn-sentir-sismos">
+					<button type="submit" class="btn btn-primary">
+						<img src="/sgc/sismos/PublishingImages/Paginas/default/sismos-icon.png" />¿Sintió este sismo?
+					</button>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</div>
