@@ -1,0 +1,282 @@
+{
+    "rms": 1,
+    "type_mag": "M",
+    "time_UTC": "2018-07-19 05:39",
+    "mapURL": "https://sismos.sgc.gov.co/events/SGC2018oaai/20180719205614-map.gif",
+    "depth1": 0,
+    "longitude": -74.68,
+    "felt_report": "Medellín (Antioquia), Bogotá, D.C. (Bogotá  D. C.), Manizales (Caldas), Florencia (Caquetá), Chía,Fusagasugá,Funza,Soacha,Girardot,Mosquera,Madrid,Ricaurte,Beltrán,El Colegio (Cundinamarca), Neiva,Tello,Teruel (Huila), Villavicencio,Vistahermosa,Cubarral,Acacías,Granada,El Castillo,Mesetas (Meta), Calarcá,Armenia,La Tebaida (Quindío), Santa Rosa de Cabal,Pereira,Dosquebradas (Risaralda), Floridablanca (Santander), Guamo,Ibagué,Chaparral (Tolima), Palmira,Florida,Cali (Valle del Cauca)",
+    "stations_count": 103,
+    "plURL": "https://sismos.sgc.gov.co/events/SGC2018oaai/20180719205614-plot-pl.png",
+    "id": "SGC2018oaai",
+    "latitude1": 3.4235,
+    "arURL": "https://sismos.sgc.gov.co/events/SGC2018oaai/20180719205614-plot-ar.png",
+    "agency": "SGC",
+    "acelerations": "https://sismos.sgc.gov.co/events/SGC2018oaai/graphics/sender.html",
+    "depth": "Profundidad Superficial (Menor de 30 km)",
+    "latitude": 3.42,
+    "status": "Manual",
+    "description": "Colombia - Huila, Colombia",
+    "closer_towns": "Colombia (Huila) a 14 km, Dolores (Tolima) a 28 km, Uribe (Meta) a 42 km",
+    "longitude1": -74.6765,
+    "gap": "69",
+    "descURL": "https://sismos.sgc.gov.co/static/img/legend-long.png",
+    "last_modified": "2018-07-19 20:56:14",
+    "mag": 5.2,
+    "quakeml": "https://sismos.sgc.gov.co/events/SGC2018oaai/SGC2018oaai.kml",
+    "shakemapURLS": [
+      {
+        "rock_grid_xml_zip": "https://sismos.sgc.gov.co/events/SGC2018oaai/SGC2018oaai/download/20180719205614-rock_grid.xml.zip",
+        "tvmap_bare_jpg": "https://sismos.sgc.gov.co/events/SGC2018oaai/SGC2018oaai/download/20180719205614-tvmap_bare.jpg",
+        "grid_xml_zip": "https://sismos.sgc.gov.co/events/SGC2018oaai/SGC2018oaai/download/20180719205614-grid.xml.zip",
+        "stationlist_txt": "https://sismos.sgc.gov.co/events/SGC2018oaai/SGC2018oaai/download/20180719205614-stationlist.txt",
+        "shape_zip": "https://sismos.sgc.gov.co/events/SGC2018oaai/SGC2018oaai/download/20180719205614-shape.zip",
+        "stationlist_json": "https://sismos.sgc.gov.co/events/SGC2018oaai/SGC2018oaai/download/20180719205614-stationlist.json",
+        "stations_kmz": "https://sismos.sgc.gov.co/events/SGC2018oaai/SGC2018oaai/download/20180719205614-stations.kmz",
+        "metadata_txt": "https://sismos.sgc.gov.co/events/SGC2018oaai/SGC2018oaai/download/20180719205614-metadata.txt",
+        "tvguide_txt": "https://sismos.sgc.gov.co/events/SGC2018oaai/SGC2018oaai/download/20180719205614-tvguide.txt",
+        "cont_pga_kmz": "https://sismos.sgc.gov.co/events/SGC2018oaai/SGC2018oaai/download/20180719205614-cont_pga.kmz",
+        "polygons_mi_kmz": "https://sismos.sgc.gov.co/events/SGC2018oaai/SGC2018oaai/download/20180719205614-polygons_mi.kmz",
+        "epicenter_kmz": "https://sismos.sgc.gov.co/events/SGC2018oaai/SGC2018oaai/download/20180719205614-epicenter.kmz",
+        "tvmap_bare_ps_zip": "https://sismos.sgc.gov.co/events/SGC2018oaai/SGC2018oaai/download/20180719205614-tvmap_bare.ps.zip",
+        "urat_pga_jpg": "https://sismos.sgc.gov.co/events/SGC2018oaai/SGC2018oaai/download/20180719205614-urat_pga.jpg",
+        "stationlist_xml": "https://sismos.sgc.gov.co/events/SGC2018oaai/SGC2018oaai/download/20180719205614-stationlist.xml",
+        "tvmap_jpg": "https://sismos.sgc.gov.co/events/SGC2018oaai/SGC2018oaai/download/20180719205614-tvmap.jpg",
+        "intensity_jpg": "https://sismos.sgc.gov.co/events/SGC2018oaai/SGC2018oaai/download/20180719205614-intensity.jpg",
+        "overlay_kmz": "https://sismos.sgc.gov.co/events/SGC2018oaai/SGC2018oaai/download/20180719205614-overlay.kmz",
+        "cont_pga_json": "https://sismos.sgc.gov.co/events/SGC2018oaai/SGC2018oaai/download/20180719205614-cont_pga.json",
+        "event_kmz": "https://sismos.sgc.gov.co/events/SGC2018oaai/SGC2018oaai/download/20180719205614-SGC2018oaai.kmz",
+        "pgv_jpg": "https://sismos.sgc.gov.co/events/SGC2018oaai/SGC2018oaai/download/20180719205614-pgv.jpg",
+        "cont_pgv_json": "https://sismos.sgc.gov.co/events/SGC2018oaai/SGC2018oaai/download/20180719205614-cont_pgv.json",
+        "info_xml": "https://sismos.sgc.gov.co/events/SGC2018oaai/SGC2018oaai/download/20180719205614-info.xml",
+        "event_kml": "https://sismos.sgc.gov.co/events/SGC2018oaai/SGC2018oaai/download/20180719205614-SGC2018oaai.kml",
+        "ii_overlay_png": "https://sismos.sgc.gov.co/events/SGC2018oaai/SGC2018oaai/download/20180719205614-ii_overlay.png",
+        "ii_thumbnail_jpg": "https://sismos.sgc.gov.co/events/SGC2018oaai/SGC2018oaai/download/20180719205614-ii_thumbnail.jpg",
+        "grid_xyz_zip": "https://sismos.sgc.gov.co/events/SGC2018oaai/SGC2018oaai/download/20180719205614-grid.xyz.zip",
+        "tvmap_ps_zip": "https://sismos.sgc.gov.co/events/SGC2018oaai/SGC2018oaai/download/20180719205614-tvmap.ps.zip",
+        "uncertainty_xml_zip": "https://sismos.sgc.gov.co/events/SGC2018oaai/SGC2018oaai/download/20180719205614-uncertainty.xml.zip",
+        "intensity_ps_zip": "https://sismos.sgc.gov.co/events/SGC2018oaai/SGC2018oaai/download/20180719205614-intensity.ps.zip",
+        "urat_pga_ps_zip": "https://sismos.sgc.gov.co/events/SGC2018oaai/SGC2018oaai/download/20180719205614-urat_pga.ps.zip",
+        "pgv_ps_zip": "https://sismos.sgc.gov.co/events/SGC2018oaai/SGC2018oaai/download/20180719205614-pgv.ps.zip",
+        "grid_xml": "https://sismos.sgc.gov.co/events/SGC2018oaai/SGC2018oaai/download/20180719205614-grid.xml",
+        "sd_jpg": "https://sismos.sgc.gov.co/events/SGC2018oaai/SGC2018oaai/download/20180719205614-sd.jpg",
+        "pga_ps_zip": "https://sismos.sgc.gov.co/events/SGC2018oaai/SGC2018oaai/download/20180719205614-pga.ps.zip",
+        "pga_jpg": "https://sismos.sgc.gov.co/events/SGC2018oaai/SGC2018oaai/download/20180719205614-pga.jpg",
+        "event_txt": "https://sismos.sgc.gov.co/events/SGC2018oaai/SGC2018oaai/download/20180719205614-event.txt",
+        "cont_pgv_kmz": "https://sismos.sgc.gov.co/events/SGC2018oaai/SGC2018oaai/download/20180719205614-cont_pgv.kmz",
+        "raster_zip": "https://sismos.sgc.gov.co/events/SGC2018oaai/SGC2018oaai/download/20180719205614-raster.zip"
+      }
+    ],
+    "shakemap": "VII",
+    "arrivals": "https://sismos.sgc.gov.co/events/SGC2018oaai/20180719205614-arrivals.json",
+     "focal_mechanism": [
+      {
+        "event": {
+          "Name": "FaseW",
+          "Date_Time": "2018-05-21 08:54:00",
+          "Lat": 6.699,
+          "Lon": -73.128,
+          "Mag": 4.9,
+          "Depth": 145,
+          "Type": "Mw"
+        },
+        "Nodal planes": [
+          {
+            "NP1": [
+              {
+                "Strike": 124.9665149,
+                "Rake": 175.6668635,
+                "Dip": 48.85936188
+              }
+            ],
+            "NP2": [
+              {
+                "Strike": 217.8204119,
+                "Rake": 41.22191491,
+                "Dip": 86.73807615
+              }
+            ]
+          }
+        ],
+        "Principal axes": [
+          {
+            "P": [
+              {
+                "Plg": 48.67224216,
+                "Azm": 221.5363733
+              }
+            ],
+            "T": [
+              {
+                "Plg": 30.36103531,
+                "Azm": 89.76719462
+              }
+            ],
+            "N": [
+              {
+                "Plg": 48.67224216,
+                "Azm": 221.5363733
+              }
+            ]
+          }
+        ],
+        "Moment_Tensor": [
+          [
+            {
+              "name": "Mrt",
+              "value": 3068325770000000
+            },
+            {
+              "name": "Mtp",
+              "value": -2816299001000000
+            },
+            {
+              "name": "Mrp",
+              "value": -895767368600000
+            },
+            {
+              "name": "Mrr",
+              "value": -81162408670000
+            },
+            {
+              "name": "Mtt",
+              "value": -81162408670000
+            },
+            {
+              "name": "Mpp",
+              "value": -2987163362000000
+            }
+          ]
+        ],
+        "img": [
+          {
+            "img": "http://sismos.sgc.gov.co/events/SGC2017hdkn/folcal.jpg"
+          }
+        ]
+      },
+      {
+        "event": {
+          "Name": "Swift",
+          "Date_Time": "2018-05-21 08:54:04",
+          "Lat": 6.699,
+          "Lon": -73.128,
+          "Mag": 4.9,
+          "Depth": 145,
+          "Type": "Mw"
+        },
+        "Nodal planes": [
+          {
+            "NP1": [
+              {
+                "Strike": 124.9665149,
+                "Rake": 175.6668635,
+                "Dip": 48.85936188
+              }
+            ],
+            "NP2": [
+              {
+                "Strike": 217.8204119,
+                "Rake": 41.22191491,
+                "Dip": 86.73807615
+              }
+            ]
+          }
+        ],
+        "Principal axes": [
+          {
+            "P": [
+              {
+                "Plg": 48.67224216,
+                "Azm": 221.5363733,
+                "Val": -3586591230000000
+              }
+            ],
+            "T": [
+              {
+                "Plg": 30.36103531,
+                "Azm": 89.76719462,
+                "Val": 4720338064000000
+              }
+            ],
+            "N": [
+              {
+                "Plg": 48.67224216,
+                "Azm": 221.5363733,
+                "Val": -1133746834000000
+              }
+            ]
+          }
+        ],
+        "Moment_Tensor": [
+          [
+            {
+              "name": "Mxx",
+              "value": 3068325770000000
+            },
+            {
+              "name": "Myy",
+              "value": -2816299001000000
+            },
+            {
+              "name": "Mzz",
+              "value": -895767368600000
+            },
+            {
+              "name": "Mxy",
+              "value": -81162408670000
+            },
+            {
+              "name": "Myz",
+              "value": -81162408670000
+            },
+            {
+              "name": "Mzx",
+              "value": -2987163362000000
+            }
+          ]
+        ],
+        "img": [
+          {
+            "img": "http://sismos.sgc.gov.co/events/SGC2017hdkn/folcal.jpg"
+          }
+        ]
+      },
+      {
+        "event": {
+          "Name": "Polaridades",
+          "Date_Time": "2018-05-21 08:54:04",
+          "Lat": 6.690,
+          "Lon": -73.131,
+          "Mag": 5.0,
+          "Depth": 142,
+          "Type": "Mw"
+        },
+        "Nodal planes": [
+          {
+            "NP1": [
+              {
+                "Strike": 124.9665149,
+                "Rake": 175.6668635,
+                "Dip": 48.85936188
+              }
+            ],
+            "NP2": [
+              {
+                "Strike": 217.8204119,
+                "Rake": 41.22191491,
+                "Dip": 86.73807615
+              }
+            ]
+          }
+        ],
+        "img": [
+          {
+            "img": "http://sismos.sgc.gov.co/events/SGC2017hdkn/folcal.jpg"
+          }
+        ]
+      }
+    ],
+    "drURL": "https://sismos.sgc.gov.co/events/SGC2018oaai/20180719205614-plot-dr.png",
+    "time_local": "2018-07-19 00:39",
+    "traces": "https://sismos.sgc.gov.co/events/SGC2018oaai/20180719205614-traces.png"
+  }
