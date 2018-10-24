@@ -1,4 +1,4 @@
-{
+[
 {
   "rms": 1,
   "type_mag": "M",
@@ -719,4 +719,4 @@
   "time_local": "2018-07-19 00:39",
   "traces": "https://sismos.sgc.gov.co/events/SGC2018oaai/20180719205614-traces.png"
 }
-}
+]
